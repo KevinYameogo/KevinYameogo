@@ -7,3 +7,5 @@
 ⚔️ I'm open to collaborating on different kinds of project!
 
 - link at : [linkden](https://linkedin.com/in/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinyameogo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
