@@ -2,7 +2,6 @@
 
 🧑🏿‍💻 Aspiring Software Engineer sharing my journey with the world  
 👨🏿‍🎓 computer science graduate from the university of St.John's, New York  
-⚙️ I recently deployed a website that makes attending events much easier, check it out [here](https://eventoall.com/)  
 🔎 Currently building my next Saas! Stay tune!   
 ⚔️ I'm open to collaborating on different kinds of project!
 
